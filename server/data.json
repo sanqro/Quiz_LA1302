@@ -1,0 +1,40 @@
+{
+  "questions": [
+    {
+      "question": "Wo liegt die BBBaden?",
+      "choice": ["Baden", "Brügg", "Brügg", "Berlin"],
+      "solution": "Baden",
+      "questionType": "text"
+    },
+    {
+      "question": "Wie viele Schulhäuser hat die BBBaden?",
+      "choice": ["4", "2", "1", "13"],
+      "solution": "2",
+      "questionType": "choice"
+    },
+    {
+      "question": "Wie lange dauert ein Schulahr?",
+      "choice": ["2 Monate ", "6 Monate", "12 Monate", "8 Monate"],
+      "solution": "12 Monate",
+      "questionType": "choice"
+    },
+    {
+      "question": "Wie viele Stockwerke hat das Schulhaus Martinsberg?",
+      "choice": ["4", "9", "2", "6"],
+      "solution": "6",
+      "questionType": "text"
+    },
+    {
+      "question": "Welcher Buchstabe ist auf dem Dach vom Schulhaus Martinsberg erkennbar?",
+      "choice": ["L", "M", "B", "E"],
+      "solution": "B",
+      "questionType": "choice"
+    },
+    {
+      "question": "Die Statue welcher bekannten Person sitzt vor dem Schulhaus Martinsberg?",
+      "choice": ["August Ferdinand Möbius", "Isaac Newton", "Alberto Keinstein", "Albert Einstein"],
+      "solution": "Albert Einstein",
+      "questionType": "choice"
+    }
+  ]
+}
